@@ -1,1 +1,2 @@
-# dot
+# dotfiles
+for my enjoyment only
